@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Sarah  
+🌐 Systems Development Manager at EgyptAir  
+💻 Passionate about .NET, C#, and building efficient teams    
+🎯 Learning Git, GitHub, and advanced system architecture
 
-<!--
-**SarahGeorge99/SarahGeorge99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- ASP.NET Core MVC / Web API
+- Entity Framework
+- SQL Server
+- Git & GitHub
+- Project & Team Management
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: sara.shafik@egyptair.com
